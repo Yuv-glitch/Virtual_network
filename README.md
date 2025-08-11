@@ -96,3 +96,11 @@ COMMIT
     
   From the client's terminal, confirm that ping 8.8.8.8 is successful.
 
+
+## Diagram
+
+<img width="716" height="691" alt="daigram" src="https://github.com/user-attachments/assets/06958fe2-9caf-4661-b1e5-dab23dec66d2" />
+
+## ⭐ Final Words
+- This project was created as more of a learning project -- PRs, ideas, improvements are welcome!
+- Contact me on [Linkedin](https://www.linkedin.com/in/yuvraj-dudhal-0288a3248/)
